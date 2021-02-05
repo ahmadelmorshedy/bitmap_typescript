@@ -1,0 +1,13 @@
+{
+  "name": "dott_test",
+  "version": "1.0.0",
+  "description": "Dott technical test",
+  "main": "app.ts",
+  "scripts": {
+    "start": "ts-node src/app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ahmad el-Morshedy",
+  "license": "ISC"
+}
